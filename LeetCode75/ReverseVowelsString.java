@@ -82,8 +82,6 @@ class ReverseVowelsString {
     	ReverseVowelsString object = new ReverseVowelsString();
 
     	System.out.println(object.reverseVowels("Euston saw I was not Sue."));
-    	
-            	
     }
 
 
