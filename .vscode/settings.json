@@ -11,5 +11,6 @@
     },
     "**/*.js.map": true,
     "**/*.class": true
-  }
+  },
+  "cSpell.words": ["nums"]
 }

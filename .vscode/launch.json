@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GroupAnagrams",
+      "request": "launch",
+      "mainClass": "GroupAnagrams",
+      "projectName": "dsa-practice_d239ad60"
+    },
+    {
+      "type": "java",
       "name": "Debug Java App",
       "request": "launch",
       "mainClass": "com.example.Main",
